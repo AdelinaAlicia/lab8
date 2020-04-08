@@ -1,4 +1,4 @@
-package com.company;
+package lab8;
 
 import java.sql.*;
 //inca un pachet DAO cu celelalte controllere
